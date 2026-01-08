@@ -91,7 +91,7 @@ export default function Portfolio() {
               />
             </h1>
             <p className="text-base sm:text-lg lg:text-xl text-slate-600 mb-4 sm:mb-6 max-w-3xl mx-auto animate-slide-up animation-delay-200 px-4">
-              Airtable Expert • Integration Specialist • Custom Web Apps Developer
+              Seasoned Developer • Integration Specialist • Custom Web Apps Integration Expert
             </p>
             <div className="flex flex-wrap justify-center gap-2 sm:gap-3 mb-6 sm:mb-8 animate-slide-up animation-delay-400 px-4">
               <Badge
@@ -99,7 +99,7 @@ export default function Portfolio() {
                 className="px-3 py-1.5 sm:px-4 sm:py-2 text-xs sm:text-sm hover:scale-105 transition-transform duration-200 animate-bounce-in animation-delay-500 bg-slate-200 text-slate-800"
               >
                 <Database className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2" />
-                Airtable
+                Data Analytics
               </Badge>
               <Badge
                 variant="secondary"
