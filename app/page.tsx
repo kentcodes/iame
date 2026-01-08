@@ -147,7 +147,7 @@ export default function Portfolio() {
           </h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-base sm:text-lg text-slate-600 mb-4 sm:mb-6 leading-relaxed animate-fade-in-up animation-delay-200 px-4">
-              I build reliable integrations, advanced Airtable systems, and custom web apps that automate operations and
+              I build reliable integrations, advanced Data systems, and custom web apps that automate operations and
               turn messy data into clean, decision-ready dashboards. My work spans hospitality, education, and
               e-commerce—serving 2,000+ daily guests, scheduling hundreds of classes, and unifying support, billing, and
               analytics.
@@ -163,7 +163,7 @@ export default function Portfolio() {
             What I Do Best
           </h2>
           <div className="max-w-5xl mx-auto grid gap-4 sm:gap-6">
-            {/* Airtable Expert */}
+            {/* Data Expert */}
             <Card className="bg-white border-slate-200 hover:shadow-lg transition-all duration-300 animate-fade-in-up animation-delay-200">
               <CardContent className="p-4 sm:p-6">
                 <div className="flex items-start gap-3 sm:gap-4">
@@ -173,7 +173,7 @@ export default function Portfolio() {
                     </div>
                   </div>
                   <div className="flex-1 min-w-0">
-                    <h3 className="text-lg sm:text-xl font-semibold mb-2 sm:mb-3 text-slate-800">Airtable Expert</h3>
+                    <h3 className="text-lg sm:text-xl font-semibold mb-2 sm:mb-3 text-slate-800">Automations Expert</h3>
                     <p className="text-sm sm:text-base text-slate-600 leading-relaxed">
                       Automations (triggers, scripting, webhooks), Scripting (JS), Interfaces, Extensions/Apps (React
                       SDK), external syncs, Base schema design, performance tuning, and governance
